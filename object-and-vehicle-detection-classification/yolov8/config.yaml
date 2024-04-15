@@ -1,0 +1,13 @@
+path: c:\Users\James\Documents\automtive-cv\automotive-cv/datasets/yolo
+train: images/train
+val: images/test
+
+nc: 6
+names:
+  0: Car
+  1: Cyclist
+  2: Pedestrian
+  3: Truck
+  4: Van
+  5: Tram
+  
