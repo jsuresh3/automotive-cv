@@ -22,7 +22,7 @@ Student Id: 250782695
 ## Project Goals
 
 - Develop a system to detect objects like cars, pedestrians, and traffic signs in automotive imagery.
-- Classify objects detect by computer vision systemsn on roads.
+- Classify objects detected by computer vision systems on images/videos of automotive imagery.
 - Experiment with different deep learning frameworks: TensorFlow, Keras, and PyTorch.
 - Evaluate the performance of the models on various metrics.
 
