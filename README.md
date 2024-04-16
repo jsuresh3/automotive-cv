@@ -41,7 +41,7 @@ Student Id: 250782695
 2. Download the `datasets` folder from [here](https://drive.google.com/drive/folders/10Swj4wJWsqonJeYEH16uhwBVhQRK7U-_) and put it in the repository 
 3. Install required libraries
 ```
-pip install opencv-python pandas numpy seaborn keras tensorflow ultralytics pickle matplotlib time random os shutil torch glob joblib warnings PIL scikit-learn scikit-image gc pathlib IPython
+pip install opencv-python pandas numpy seaborn keras tensorflow ultralytics matplotlib torch joblib Pillow scikit-learn scikit-image pathlib IPython
 ```
 4. Run the notebooks shown in `object-and-vehicle-detection-classification` and `traffic-sign-classification`
 
