@@ -48,7 +48,7 @@ pip install opencv-python pandas numpy seaborn keras tensorflow ultralytics pick
 ## Links
 
 * [https://drive.google.com/drive/folders/10Swj4wJWsqonJeYEH16uhwBVhQRK7U-_](https://drive.google.com/drive/folders/10Swj4wJWsqonJeYEH16uhwBVhQRK7U-_)
-* [https://drive.google.com/drive/folders/10Swj4wJWsqonJeYEH16uhwBVhQRK7U-_](https://drive.google.com/drive/folders/10Swj4wJWsqonJeYEH16uhwBVhQRK7U-_)  
+* [https://drive.google.com/drive/folders/1-4sUmpJtJLJjBHPa5b3BvGNV4mKGg7FX](https://drive.google.com/drive/folders/1-4sUmpJtJLJjBHPa5b3BvGNV4mKGg7FX)  
 
 
 
